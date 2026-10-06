@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "id": "rain",
+      "name": "Rain",
+      "icon": "rain",
+      "category": "Nature",
+      "url": "https://assets.mixkit.co/active_storage/sfx/2393/2393-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean Waves",
+      "icon": "ocean",
+      "category": "Nature",
+      "url": "https://assets.mixkit.co/active_storage/sfx/1194/1194-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "icon": "wind",
+      "category": "Nature",
+      "url": "https://assets.mixkit.co/active_storage/sfx/1267/1267-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "icon": "forest",
+      "category": "Nature",
+      "url": "https://assets.mixkit.co/active_storage/sfx/2456/2456-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "fire",
+      "name": "Fireplace",
+      "icon": "fire",
+      "category": "Cozy",
+      "url": "https://assets.mixkit.co/active_storage/sfx/1329/1329-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "pad",
+      "name": "Soft Pad",
+      "icon": "pad",
+      "category": "Ambient",
+      "url": "https://assets.mixkit.co/active_storage/sfx/2135/2135-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "white",
+      "name": "White Noise",
+      "icon": "white",
+      "category": "Noise",
+      "url": "https://assets.mixkit.co/active_storage/sfx/1308/1308-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "pink",
+      "name": "Pink Noise",
+      "icon": "pink",
+      "category": "Noise",
+      "url": "https://assets.mixkit.co/active_storage/sfx/2588/2588-preview.mp3",
+      "v": 1
+    },
+    {
+      "id": "brown",
+      "name": "Brown Noise",
+      "icon": "brown",
+      "category": "Noise",
+      "url": "https://assets.mixkit.co/active_storage/sfx/2132/2132-preview.mp3",
+      "v": 1
+    }
+  ]
+}
