@@ -7,7 +7,8 @@
       "icon": "rain",
       "category": "Nature",
       "url": "https://assets.mixkit.co/active_storage/sfx/2393/2393-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": false
     },
     {
       "id": "ocean",
@@ -15,7 +16,8 @@
       "icon": "ocean",
       "category": "Nature",
       "url": "https://assets.mixkit.co/active_storage/sfx/1194/1194-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "wind",
@@ -23,7 +25,8 @@
       "icon": "wind",
       "category": "Nature",
       "url": "https://assets.mixkit.co/active_storage/sfx/1267/1267-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "forest",
@@ -31,7 +34,8 @@
       "icon": "forest",
       "category": "Nature",
       "url": "https://assets.mixkit.co/active_storage/sfx/2456/2456-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "fire",
@@ -39,7 +43,8 @@
       "icon": "fire",
       "category": "Cozy",
       "url": "https://assets.mixkit.co/active_storage/sfx/1329/1329-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "pad",
@@ -47,7 +52,8 @@
       "icon": "pad",
       "category": "Ambient",
       "url": "https://assets.mixkit.co/active_storage/sfx/2135/2135-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "white",
@@ -55,7 +61,8 @@
       "icon": "white",
       "category": "Noise",
       "url": "https://assets.mixkit.co/active_storage/sfx/1308/1308-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "pink",
@@ -63,7 +70,8 @@
       "icon": "pink",
       "category": "Noise",
       "url": "https://assets.mixkit.co/active_storage/sfx/2588/2588-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     },
     {
       "id": "brown",
@@ -71,7 +79,8 @@
       "icon": "brown",
       "category": "Noise",
       "url": "https://assets.mixkit.co/active_storage/sfx/2132/2132-preview.mp3",
-      "v": 1
+      "v": 1,
+      "premium": true
     }
   ]
 }
